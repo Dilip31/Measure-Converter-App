@@ -25,7 +25,7 @@ Measure-Converter
 
 
 <p>
-<"![image](https://user-images.githubusercontent.com/96740412/190893686-eb364cff-32d6-4332-a245-c04ea6f9db4d.png)
+<[image]"(https://user-images.githubusercontent.com/96740412/190893686-eb364cff-32d6-4332-a245-c04ea6f9db4d.png)
 " alt="feed example" width = "400" >
 <img src="https://user-images.githubusercontent.com/35039342/55468436-fa500080-5620-11e9-8475-28f291c4b1f6.png" alt="upload photo example"width = "400" >
 <img src="https://user-images.githubusercontent.com/35039342/55468489-1a7fbf80-5621-11e9-81d5-66d0535e0cde.png" alt="go to a profile from feed" width = "400">
