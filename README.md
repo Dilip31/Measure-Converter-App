@@ -1,4 +1,4 @@
-Measure-Converter
+#Measure-Converter
 
 ## Features
 
@@ -17,7 +17,7 @@ metric, and vice versa.
 
 
 
-<img src="https://user-images.githubusercontent.com/96740412/190893829-e41abdc1-ec9a-4b2c-9545-e7854e4f9603.png" hight="500" width = "400" >
+<img src="https://user-images.githubusercontent.com/96740412/190893829-e41abdc1-ec9a-4b2c-9545-e7854e4f9603.png"  height="600" width = "300" >
 <img src="https://user-images.githubusercontent.com/35039342/55468436-fa500080-5620-11e9-8475-28f291c4b1f6.png" alt="upload photo example"width = "400" >
 <img src="https://user-images.githubusercontent.com/35039342/55468489-1a7fbf80-5621-11e9-81d5-66d0535e0cde.png" alt="go to a profile from feed" width = "400">
 <img src="https://user-images.githubusercontent.com/35039342/55468561-4a2ec780-5621-11e9-806c-69861f6bee32.png" alt="edit profile example" width = "400" >
