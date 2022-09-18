@@ -16,13 +16,14 @@ metric, and vice versa.
 
 
 
+![image](https://user-images.githubusercontent.com/96740412/190895812-a2308043-3d00-4147-9451-7c0a6f119a0b.png)
 
 
 
 
 <img src="https://user-images.githubusercontent.com/96740412/190894437-449a3b1d-d061-4180-8bc5-32b1fd407cdc.png "  height="600" width = "300"  >
 <br>
-<img src="https://user-images.githubusercontent.com/96740412/190895561-deb32c7e-7c5e-4580-b374-a2e469c0608e.png"  height="600" width = "300" >
+<img src="https://user-images.githubusercontent.com/96740412/190895812-a2308043-3d00-4147-9451-7c0a6f119a0b.png"  height="600" width = "300" >
  <br>
  <img src="https://user-images.githubusercontent.com/96740412/190895654-d0eac2b9-ca63-4f4d-af67-490fbda4baa1.png" height="600" width = "300"  >
  <br>
