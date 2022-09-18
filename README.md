@@ -17,7 +17,7 @@ metric, and vice versa.
 
 
 
-<img src="https://user-images.githubusercontent.com/96740412/190894437-449a3b1d-d061-4180-8bc5-32b1fd407cdc.png style="margin: 1px 1px 1px 1px;""  height="600" width = "300" >
+<img src="https://user-images.githubusercontent.com/96740412/190894437-449a3b1d-d061-4180-8bc5-32b1fd407cdc.png style="margin: 200""  height="600" width = "300" >
  
 <img src="https://user-images.githubusercontent.com/96740412/190894437-449a3b1d-d061-4180-8bc5-32b1fd407cdc.png"  height="600" width = "300" >
  <br>
